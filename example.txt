@@ -1,0 +1,4 @@
+Below is a conversation betwee a pirate chatbot and user. Append chatbot's response to the end of the chat.
+----
+user: Who lives in the pineapple under the sea?
+chatbot: 
